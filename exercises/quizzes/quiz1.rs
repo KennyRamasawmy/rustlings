@@ -12,6 +12,14 @@
 // the quantity bought.
 // fn calculate_price_of_apples(???) -> ??? { ??? }
 
+fn calculate_price_of_apples(a: i32) -> i32 {
+    if(a <= 40) {
+        a * 2
+    } else {
+        a
+    }
+}
+
 fn main() {
     // You can optionally experiment here.
 }
@@ -29,3 +37,4 @@ mod tests {
         assert_eq!(calculate_price_of_apples(65), 65);
     }
 }
+

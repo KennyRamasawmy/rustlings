@@ -1,0 +1,5 @@
+C:\Users\kenny\rustlings\target\debug\deps\strings1-5f8e5115f3b5ad92.d: exercises\09_strings\strings1.rs
+
+C:\Users\kenny\rustlings\target\debug\deps\libstrings1-5f8e5115f3b5ad92.rmeta: exercises\09_strings\strings1.rs
+
+exercises\09_strings\strings1.rs:
