@@ -9,6 +9,10 @@ fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
 
 fn main() {
     // TODO: Fix the compiler error by moving one line.
+    let a = "test";
+    let b = &a;
+    print!("{}", *b);
+
 
     let string1 = String::from("long string is long");
     let result;

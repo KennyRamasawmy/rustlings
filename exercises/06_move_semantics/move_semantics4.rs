@@ -14,6 +14,6 @@ mod tests {
         let z = &mut x;
         z.push(13);
         assert_eq!(x, [42, 13]);
-        
+
     }
 }
